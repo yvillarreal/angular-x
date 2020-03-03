@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "angular-4dc09"
+  },
+  "targets": {
+    "angular-4dc09": {
+      "hosting": {
+        "angular-example": [
+          "angular-4dc09"
+        ]
+      }
+    }
   }
 }
